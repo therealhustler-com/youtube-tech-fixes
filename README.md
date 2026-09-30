@@ -11,5 +11,8 @@ To keep things clean, every video tutorial has its own dedicated folder. Simply 
 
 *(More guides and scripts coming soon!)*
 
+## ⚖️ License 
+All scripts and resources in this repository are licensed under CC BY 4.0. You are free to share and adapt the code, provided you give appropriate credit and link back to the channel.
+
 ## ⚠️ Standard Disclaimer
 All scripts here are provided as-is and are designed to solve the specific hardware/software issues demonstrated on the https://youtube.com/@therealhustler channel. Always watch the associated YouTube tutorial for full context and instructions before running any files such as `.bat` as Administrator.
