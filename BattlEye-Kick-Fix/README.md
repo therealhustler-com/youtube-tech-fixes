@@ -12,7 +12,7 @@ This script resolves stubborn BattlEye launch errors that that lead to the dread
 ## 📥 Usage Instructions
 
 1. **Download the File:**
-   * Save the `BattlEye-Reset.bat` file to your PC.
+   * Save the `.bat` file to your PC.
 2. **Run as Administrator (Required):**
    * Right-click the `.bat` file and select **Run as Administrator**. 
    * *Note: If you do not run as Admin, Windows will block the script from deleting the corrupted service.*
