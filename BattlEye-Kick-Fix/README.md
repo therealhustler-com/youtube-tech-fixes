@@ -1,6 +1,6 @@
 # 🎮 BattlEye Anti-Cheat & Network Reset
 
-This script resolves stubborn BattlEye launch errors that that lead to the dreaded "kicked by Battleye" message, through purging corrupted anti-cheat services and resetting your local network cache.
+This script resolves stubborn BattlEye launch errors that lead to the dreaded "kicked by Battleye" message, through purging corrupted anti-cheat services and resetting your local network cache.
 
 ## 🛠️ What This Script Does
 1. **`sc delete beservice`**: Completely uninstalls the corrupted BattlEye Windows service, forcing your game to install a clean version on its next launch.
