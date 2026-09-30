@@ -1,6 +1,6 @@
 # 🛠️ Tech Fixes & Stream Optimization Scripts
 
-Welcome to the official resource repository for the https://youtube.com/@therealhustler channel! This repo houses all the batch files, automation scripts, and stream optimizations featured in my YouTube videos.
+Welcome to the official resource repository for the https://youtube.com/@therealhustler channel! This repo houses all the batch files, automation scripts, and stream optimizations featured in our YouTube videos.
 
 ## 📂 How to Navigate
 To keep things clean, every video tutorial has its own dedicated folder. Simply click the folder below that matches the video you watched to find the exact code and installation instructions.
