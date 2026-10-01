@@ -1,6 +1,6 @@
 # 🔊 Elgato Wave Link & NVIDIA Broadcast Startup Fix
 
-This script resolves the startup race condition on Windows where **Elgato Wave Link** and **NVIDIA Broadcast** conflict over virtual audio endpoints, causing Nvidia broadcast to get stuck on loading, crashed plugins, missing audio channels, or other driver failures.
+This script resolves the startup race condition on Windows where **Elgato Wave Link** and **NVIDIA Broadcast** conflict over virtual audio endpoints, causing NVIDIA Broadcast to get stuck on loading, crashed plugins, missing audio channels, or other driver failures.
 
 ## 🛠️ What This Script Does
 1. Temporarily stops and disables the `WavelinkSEService` background service.
