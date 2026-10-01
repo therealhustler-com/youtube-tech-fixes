@@ -7,7 +7,7 @@ To keep things clean, every video tutorial has its own dedicated folder. Simply 
 
 ### 📌 Current Projects:
 * **[BattlEye-Kick-Fix](./BattlEye-Kick-Fix/)** - The BattlEye Anti-Cheat & Network Reset for gamers when all else fails to work.
-* **[NVIDIA-Loading-Fix](./NVIDIA-Loading-Fix/)** — The bulletproof startup script to stop Wave Link and NVIDIA Broadcast from crashing your audio endpoints.
+* **[NVIDIA-Loading-Fix](.Elgato-NVIDIA-Audio-Fix/)** — The bulletproof startup script to stop Wave Link and NVIDIA Broadcast (typically stuck loading) from crashing your audio endpoints.
 
 *(More guides and scripts coming soon!)*
 
